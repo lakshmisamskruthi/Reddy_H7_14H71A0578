@@ -6,7 +6,7 @@ public class Main {
 		//You may test that your code works find here
 		//Please check that your code works and has no 
 		//compilation problems before to submit
-                                  Date d1=new Date(2323223232L);
+                                 /* Date d1=new Date(2323223232L);
                                 Student st = new Student(01,"Harikrihna",new Date(11111111),63.568);
 		Student st2 = new Student(02,"Harikrihna",new Date(11111111),63.568);
 		Student st3 = new Student(03,"Harikrihna",new Date(11111111),63.568);
@@ -22,7 +22,7 @@ public class Main {
 		System.out.println("Id is :"+st3.getId());
                                 System.out.println("FullName is :"+st3.getFullName());
 		System.out.println("BirthDate is :"+st3.getBirthDate());
-		System.out.println("Average marks is :"+st3.getAvgMark());
+		System.out.println("Average marks is :"+st3.getAvgMark());*/
 		
 
                                
