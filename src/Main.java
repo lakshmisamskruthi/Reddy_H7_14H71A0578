@@ -7,8 +7,8 @@ public class Main {
 		//Please check that your code works and has no 
 		//compilation problems before to submit
                                   Date d1=new Date(2323223232L);
-                                Student st = new Student(01,"Harikrihna",new Date(1997,03,06),63.568);
-		Student st2 = new Student(02,"Harikrihna",new Date(1997,04,06),63.568);
+                                Student st = new Student(01,"Harikrihna",new Date(11111111),63.568);
+		Student st2 = new Student(02,"Harikrihna",new Date(11111111),63.568);
 		Student st3 = new Student(03,"Harikrihna",new Date(11111111),63.568);
 		Student st4 = new Student(04,"Harikrihna",d1,63.568);
                                 System.out.println("Id is :"+st2.getId());
