@@ -17,7 +17,7 @@ public class Main {
 		System.out.println("Average marks is :"+st2.getAvgMark());
                                 st3.setId(5);
  		st3.setFullName("yogitha");
-		st3.setBirthDate(new Date(1995,05,05));
+		st3.setBirthDate(new Date(11111111));
 		st3.setAvgMark(99.8);
 		System.out.println("Id is :"+st3.getId());
                                 System.out.println("FullName is :"+st3.getFullName());
